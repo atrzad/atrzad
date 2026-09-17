@@ -1,4 +1,4 @@
-# Ei! Aqui é o Ayo
+# Fala! Aqui é o Ayo
 
 **Desenvolvedor Indie & Freelancer**
 
@@ -31,14 +31,6 @@ Bem-vindo ao meu canto da internet. Sou o Ayo, um dev backend que brinca de ser 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
-### Status do Código
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atrzad&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrzad&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true"/>
-</div>
 
 ---
 
